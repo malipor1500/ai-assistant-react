@@ -1,7 +1,7 @@
 // src/core/config.ts
 
 const config = {
-    apiUrl: 'https://api.sista.ai',
+    apiUrl: 'https://malipor.site',
     startSoundFileUrl:
         'https://vuic-assets.s3.us-west-1.amazonaws.com/sdk-assets/audio/start.mp3',
     endSoundFileUrl:
