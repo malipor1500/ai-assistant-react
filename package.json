@@ -92,7 +92,7 @@
         "dist"
     ],
     "dependencies": {
-        "@sentry/react": "^8.19.0",
+        "@sentry/react": "^8.55.0",
         "howler": "^2.2.4",
         "react-icons": "^5.0.1",
         "uuid": "^9.0.1"
